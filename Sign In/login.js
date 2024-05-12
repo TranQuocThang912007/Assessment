@@ -18,7 +18,7 @@ login.addEventListener("submit", (e) => {
     }
   }
   if (check === true) {
-    window.location.href = "file:///G:/MindX/JSA04/EXAM/index.html"; //quay lại được trang trước//;
+    window.location.href = "file:///G:/MindX/JSA04/EXAM/home.html"; //quay lại được trang trước//;
   } else {
     alert("Please input again");
   }

@@ -1,14 +1,8 @@
 let products = {
   data: [
     {
-      name: "LaVie 450ml",
-      price: "45.000đ",
-      image: "",
-    },
-
-    {
-      name: "Perrier 750ml",
-      price: "75.000đ",
+      name: "Coca Cola Original 390ml",
+      price: "7.000đ",
       image: "",
     },
 
@@ -19,51 +13,27 @@ let products = {
     },
 
     {
+      name: "Perrier 750ml",
+      price: "75.000đ",
+      image: "",
+    },
+
+    {
       name: "Evian 750ml",
       price: "75.000đ",
       image: "",
     },
 
     {
-      name: "TARO RAINBOW LOGO DECK",
-      price: "780.000đ - 1.670.000đ",
-      image: "images/web-5.jpg",
+      name: "Starbucks Cold Brew Black Unsweetened 325ml",
+      price: "100.000đ",
+      image: "",
     },
 
     {
-      name: "NEON RAINBOW LOGO DECK",
-      price: "780.000đ - 1.670.000đ",
-      image: "images/web-1.jpg",
-    },
-
-    {
-      name: "ORANAGE RAINBOW LOGO DECK",
-      price: "780.000đ - 1.670.000đ",
-      image: "images/web-2.jpg",
-    },
-
-    {
-      name: "BLUE RAINBOW LOGO DECK",
-      price: "780.000đ - 1.670.000đ",
-      image: "images/web-3.jpg",
-    },
-
-    {
-      name: "WHITE RAINBOW LOGO DECK",
-      price: "780.000đ - 1.670.000đ",
-      image: "images/web-4.jpg",
-    },
-
-    {
-      name: "CUTIS MODEL DECK",
-      price: "780.000đ - 1.670.000đ",
-      image: "images/cutis.jpg",
-    },
-
-    {
-      name: "CAM VU MODEL DECK",
-      price: "780.000đ - 1.670.000đ",
-      image: "images/cam-vu.jpg",
+      name: "Starbucks Frappuccino Vanilla 281ml",
+      price: "50.000đ",
+      image: "",
     },
   ],
 };
